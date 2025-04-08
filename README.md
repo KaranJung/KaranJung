@@ -11,7 +11,7 @@
 <div align="center">
   
   [![Visitors](https://komarev.com/ghpvc/?username=karanjung&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/KaranJung)
-  [![GitHub followers](https://img.shields.io/github/followers/karanjung?logo=github&style=for-the-badge)](https://github.com/KaranJung?tab=followers)
+
   
   
 </div>
