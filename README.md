@@ -1,32 +1,95 @@
-<h1 align="center">Hi 👋, I'm Karan Jung Budhathoki</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hello World! I'm Karan Jung Budhathoki
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanjung&label=Profile%20views&color=0e75b6&style=flat" alt="karanjung" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&width=435&lines=Frontend+Developer+%7C+UI%2FUX+Enthusiast;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanjung" alt="karanjung" /></a> </p>
+<div align="center">
+  
+  [![Visitors](https://komarev.com/ghpvc/?username=karanjung&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/KaranJung)
+  [![GitHub followers](https://img.shields.io/github/followers/karanjung?logo=github&style=for-the-badge)](https://github.com/KaranJung?tab=followers)
+  ![WakaTime](https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge)
+  
+</div>
 
-- 🔭 I’m currently working on [Student College Finder](https://github.com/KaranJung/Student-College-Finder)
+## 🔥 My Coding Stats
 
-- 🌱 I’m currently learning **Figma**
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=karanjung&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="karanjung" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=radical&hide_border=true" alt="karanjung" height="180"/>
+  
+  <br/>
+  
+  [![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karanjung&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [https://karanjungbudhathoki.com.np/](https://karanjungbudhathoki.com.np/)
+## 🛠️ My Tech Stack
 
-- 💬 Ask me about **Javascript, Python, PHP**
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- 📫 How to reach me **underside001@gmail.com**
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- ⚡ Fun fact **I like the sound of my keyboard**
+### 🖥️ Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/karanjung.budhathoki.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karanjung.budhathoki.16" height="30" width="40" /></a>
-<a href="https://instagram.com/karan_jung_budhathoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_jung_budhathoki" height="30" width="40" /></a>
-</p>
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛠️ Other Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjung&show_icons=true&locale=en&layout=compact" alt="karanjung" /></p>
+## 🚀 Current Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&locale=en" alt="karanjung" /></p>
+- 🔨 **[Student College Finder](https://github.com/KaranJung/Student-College-Finder)** - Helping students find their perfect college match
+- 🎨 Learning **Figma** to enhance my UI/UX design skills
+- 🌱 Exploring **React.js** for more dynamic frontend development
 
+## 📫 How to Reach Me
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://karanjungbudhathoki.com.np/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:underside001@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/karanjung.budhathoki.16)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/karan_jung_budhathoki)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  
+</div>
+
+## 💡 Fun Facts
+
+- ⌨️ I love the mechanical sound of my keyboard while coding
+- ☕ I believe coffee is a developer's best friend
+- 🎮 When not coding, I enjoy gaming and music
+- 🚀 Always excited to learn new technologies
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/KaranJung/KaranJung/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
