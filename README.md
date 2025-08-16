@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+UI%2FUX+Enthusiast;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
-</h3>
-
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=karanjung&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/KaranJung)
