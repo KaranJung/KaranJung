@@ -1,87 +1,93 @@
-<!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Karan+Jung&fontSize=60&animation=fadeIn" alt=" Karan Jung Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&text=E.r+Karan+Jung&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Full-Stack Developer • UI/UX Advocate • Creative Technologist</h3>
+<h2 align="center" style="color:red">🔥 Full‑Stack Developer • UI/UX Assassin • Code Mercenary 🔥</h2>
+<p align="center">⚠️ Warning: This profile contains high‑voltage code, caffeine-fueled commits, and occasional dark humor.</p>
+
+---
+
+# 🧠 Who Am I?
+
+I'm **Karan**, the developer your bugs fear.
+
+* I write code that works even when I’m half asleep ☕😴
+* My debugging style: **violence but controlled**
+* Color theme of my life: **Aggressive Red (#FF0000)**
+* Keyboard: *suffers daily brutality*
+
+> “If it works, don’t touch it. If it breaks, pretend it wasn’t you.” — Ancient Developer Wisdom
+
+---
+
+# 💀 Hacker‑Style Fun Facts
+
+* I don’t push commits… **I unleash them**.
+* My console doesn’t display errors — **errors display me**.
+* When I type `npm start`, the universe listens.
+* Dark mode isn’t a preference… **it’s a personality trait**.
+
+---
+
+# 📌 Featured Projects (Red Edition)
+
+### 🔥 **Student College Finder**
+
+A precision‑engineered system helping students decide their future… with less crying.
+👉 [https://github.com/KaranJung/Student-College-Finder](https://github.com/KaranJung/Student-College-Finder)
+
+### 🛰 **GPS Location Tracker**
+
+Because sometimes you *need to know where things are*… 👀
+👉 [https://github.com/KaranJung/GPS-Location-Tracker](https://github.com/KaranJung/GPS-Location-Tracker)
+
+### 🌐 **Portfolio Website**
+
+Beautiful. Clean. Professional. Unlike my sleep schedule.
+👉 [https://karanjungbudhathoki.com.np/](https://karanjungbudhathoki.com.np/)
+
+---
+
+# 🛠 Tech Arsenal (Aggressive Mode)
+
+**Languages:** JavaScript • Python • PHP • C++ • Kotlin
+
+**Frontend:** HTML • CSS • Tailwind • Bootstrap • Figma
+
+**Backend:** Node.js • Express • Laravel • Django
+
+**Tools:** Docker • Linux • Git • Postman
+
+*Preferred Color:* **#FF0000** (for maximum intimidation)
+
+---
+
+# 📊 GitHub Stats (Red Themed)
 
 <p align="center">
-  <a href="https://karanjungbudhathoki.com.np/" target="_blank">Portfolio</a> •
+  <img src="https://streak-stats.demolab.com?user=karanjung&theme=red-navy&hide_border=true"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🧨 Connect Before I Change My Username Again
+
+<p align="center">
+  <a href="https://karanjungbudhathoki.com.np/">Portfolio</a> •
   <a href="mailto:underside001@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/karan-jung-budhathoki">LinkedIn</a>
+  <a href="https://linkedin.com/in/karan-jung-budhathoki">LinkedIn</a> •
+  <a href="https://fb.com/karanjung.budhathoki.16">Facebook</a> •
+  <a href="https://instagram.com/karan_jung_budhathoki">Instagram</a>
 </p>
 
 ---
 
-## 👁️ Who Am I?
+# 💬 Closing Quote
 
-| | |
-|---|---|
-| **Name** | E.r Karan Jung |
-| **Role** | Building elegant digital solutions that feel intuitive and look polished. |
-| **Focus** | Frontend aesthetics + Backend robustness + Seamless UX |
-
-I thrive at the intersection of logic and design — turning complex ideas into simple, meaningful products.
-
----
-
-## 🚀 Featured Projects
-
-### **🎯 Student College Finder**  
-A smart platform to help students find their ideal college — placing the human at the center of the tech.  
-🔗 [github.com/KaranJung/Student-College-Finder](https://github.com/KaranJung/Student-College-Finder)
-
-### **📍 GPS Location Tracker**  
-Real-time tracking with an intuitive dashboard — the code meets the map.  
-🔗 [github.com/KaranJung/GPS-Location-Tracker](https://github.com/KaranJung/GPS-Location-Tracker)
-
-### **🌐 Portfolio Website**  
-My digital identity: a showcase of design sense and frontend craft.  
-🔗 [karanjungbudhathoki.com.np](https://karanjungbudhathoki.com.np/)
-
----
-
-## 🧰 Tech Stack
-
-### **Languages**  
-JavaScript · Python · PHP · C++ · Kotlin  
-
-### **Frontend & UI**  
-HTML5 · CSS3 · Bootstrap · TailwindCSS · Figma · (React – exploring)  
-
-### **Backend & Tools**  
-Node.js · Express.js · Laravel · Django · Docker · Linux · Git · Postman  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karanjung&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
-</p>
-
----
-
-## 🌟 Personal Motto  
-> “Build with intention. Design with empathy. Code with clarity.”
-
----
-
-## 🔮 What’s Next  
-- Deepening expertise in React and modern frontend ecosystems.  
-- Exploring microservices and scalable backend patterns.  
-- Creating tools that make life easier — for developers and users alike.  
-
----
-
-## 📫 Connect With Me  
-Feel free to reach out if you’re curious about collaboration, open-source work, or just want to chat tech.  
-🌐 [Portfolio](https://karanjungbudhathoki.com.np/) • 📧 Email • 🔗 [LinkedIn](https://linkedin.com/in/karan-jung-budhathoki)
-
----
+<p align="center"><i>“I don’t always test my code… but when I do, I do it in production.”</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Let’s+Build+Something+Great!&fontSize=40&animation=fadeIn" alt="Let’s Build Something Great!"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=120&text=Access+Terminated&fontSize=40&fontColor=ffffff" />
 </p>
