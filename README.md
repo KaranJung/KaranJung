@@ -1,102 +1,142 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
-  <br/>
-  🚀 CYBER_NEXUS // PROFILE_ACCESS
-  <br/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
-</h1>
-
 <div align="center">
 
-python
-#!/usr/bin/env python3
-# CYBER_PROFILE: KARAN_JUNG_BUDHATHOKI
-# STATUS: [ACTIVE_SYSTEM]
-# ACCESS_LEVEL: [ROOT]
-
-https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&color=00ff41&size=25&center=true&vCenter=true&width=600&lines=CONSOLE%3E_WHOAMI;CONSOLE%3E_SYSTEM_STATUS;CONSOLE%3E_DEPLOY_CODE;CONSOLE%3E_BREAK_REALITY
+![Matrix Pill](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50")
+<br>
+<div style="font-family: 'Orbitron', monospace; font-size: 2.5em; color: #0f0; text-shadow: 0 0 20px #0f0; animation: glitch-skitter 2s infinite;">
+  KARANJUNG://ROOT@MATRIX.NP
 </div>
-📊 SYSTEM_METRICS
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=radical&hide_border=true" height="165"/>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&lines=Wake+up%2C+Neo...;Accessing+the+Simulation...;PULLING+COMMITS+FROM+THE+VOID...;PUSHING+BOUNDARIES+INTO+INFINITY;There+is+no+README...+only+the+code." alt="Hacker Typing Effect" />
 
-https://streak-stats.demolab.com?user=karanjung&theme=radical&hide_border=true&mode=weekly&border_radius=5&background=0D1117&ring=00FF41&fire=00FF41
-
-https://github-readme-activity-graph.vercel.app/graph?username=karanjung&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff
 </div>
-🛠️ ACTIVE_MISSIONS
-🎯 MAINFRAME_OPERATIONS
 
-https://img.shields.io/badge/%F0%9F%8E%AF_STUDENT_COLLEGE_FINDER-ACTIVE-00ff41?style=for-the-badge&logo=github
-https://img.shields.io/badge/%F0%9F%93%9D_KEEPER_NOTES-SECURED-00ff41?style=for-the-badge&logo=github
-⚡ CYBER_PROTOTYPES
+<style>
+  body { background: #000; color: #0f0; font-family: 'Courier New', monospace; }
+  .matrix-bg { 
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: -1; opacity: 0.1; 
+  }
+  .terminal-hack {
+    background: rgba(0, 10, 0, 0.9);
+    border: 1px dashed #0f0;
+    border-radius: 8px;
+    padding: 25px;
+    margin: 25px auto;
+    max-width: 850px;
+    box-shadow: 0 0 25px rgba(0, 255, 0, 0.3);
+    animation: pulse-hack 3s infinite alternate;
+    overflow: hidden;
+  }
+  @keyframes pulse-hack { 0% { box-shadow: 0 0 10px #0f0; } 100% { box-shadow: 0 0 40px #0f0; } }
+  @keyframes glitch-skitter {
+    0%, 100% { transform: translate(0); }
+    10% { transform: translate(-2px, 2px); }
+    20% { transform: translate(2px, -2px); }
+    30% { transform: translate(-1px, 1px); }
+  }
+  .cmd-line { color: #0ff; font-weight: bold; }
+  .output { color: #0f0; margin: 10px 0; animation: type-fade 2s ease-in; }
+  @keyframes type-fade { from { opacity: 0; } to { opacity: 1; } }
+  .pull-push-btn {
+    display: inline-block; margin: 5px; padding: 10px 20px;
+    background: transparent; border: 1px solid #0f0; color: #0f0;
+    text-decoration: none; border-radius: 4px; transition: all 0.3s;
+    font-family: monospace;
+  }
+  .pull-push-btn:hover {
+    background: #0f0; color: #000; transform: rotate(5deg) scale(1.05);
+    box-shadow: 0 0 15px #0f0; animation: pull-glitch 0.5s;
+  }
+  @keyframes pull-glitch { 0%, 100% { text-shadow: none; } 50% { text-shadow: 0 0 10px #0ff; } }
+  .fun-fact { 
+    background: rgba(0, 255, 0, 0.05); padding: 8px; border-left: 3px solid #0f0;
+    margin: 10px 0; transition: all 0.2s; 
+  }
+  .fun-fact:hover { background: rgba(0, 255, 0, 0.15); transform: translateX(10px); }
+</style>
 
-https://img.shields.io/badge/%F0%9F%94%8A_TEXT_TO_SPEECH-RUNNING-00ff41?style=for-the-badge&logo=github
-https://img.shields.io/badge/%F0%9F%8E%AE_SIMON_GAME-ACTIVE-00ff41?style=for-the-badge&logo=github
-🎨 UI_UX_LAB
+<canvas class="matrix-bg" id="rain-hack"></canvas>
 
-https://img.shields.io/badge/%F0%9F%8E%B2_DICE_GAME-ROLLING-00ff41?style=for-the-badge&logo=github
-https://img.shields.io/badge/%F0%9F%A5%81_DRUM_KIT-JAMMING-00ff41?style=for-the-badge&logo=github
-🔐 SECURITY_TESTING
+<div class="terminal-hack" align="left">
+  <pre>
+<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">git pull origin reality</span>
+<span class="output">Fetching... Merging spoons from the architect...</span>
+<span class="output glitch-skitter">> Status: Full-Stack Oracle | Nepal Node Operator | Code Bender Extraordinaire</span>
 
-https://img.shields.io/badge/%F0%9F%94%90_SECRETS_PROJECT-CLASSIFIED-00ff41?style=for-the-badge&logo=github
-https://img.shields.io/badge/%F0%9F%93%A7_NEWSLETTER_DEPLOYED-00ff41?style=for-the-badge&logo=github
-🌐 WEB_SYSTEMS
+<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">ls -la ~/skills</span>
+<span class="output">drwxr-xr-x  JS/     Python/    React/    Node.js/    Django/    Laravel/
+drwxr-xr-x  Tailwind/  Docker/    Kotlin/   C++/       Figma/     Photoshop/
+> Pull power: 100% - Languages loaded. Ready to fork the simulation.</span>
 
-https://img.shields.io/badge/%E2%9C%85_TODOLIST_V2-OPERATIONAL-00ff41?style=for-the-badge&logo=github
-https://img.shields.io/badge/%F0%9F%93%9D_MY_BLOG-PUBLISHING-00ff41?style=for-the-badge&logo=github
-💾 TECH_MATRIX
-🧠 NEURAL_PROCESSORS
-javascript
+<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">git push --force origin projects</span>
+<span class="output">Pushing... Bullet-time deploy activated.</span>
+<span class="output">→ <a href="https://github.com/KaranJung/Student-College-Finder" class="pull-push-btn">Student-College-Finder</a> - Hacking education matrices, one soul at a time.
+→ Figma Mastery: Designing escapes from the cube.
+→ React Quest: Building UIs that dodge red pills.</span>
 
-const cyberStack = {
-  frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind"],
-  backend: ["Node.js", "Express", "Laravel", "Django", "PHP"],
-  languages: ["Python", "C++", "Kotlin", "JavaScript"],
-  tools: ["Docker", "Postman", "Linux", "Figma", "AdobeXD"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"]
-};
+<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">connect --jack-in</span>
+  </pre>
+  
+  <div align="center">
+    <a href="https://karanjungbudhathoki.com.np/" class="pull-push-btn">🚀 PORTAL JUMP</a>
+    <a href="mailto:underside001@gmail.com" class="pull-push-btn">📡 BEAM SIGNAL</a>
+    <a href="https://linkedin.com/in/karan-jung-budhathoki" class="pull-push-btn">🔗 NEURAL LINK</a>
+    <a href="https://instagram.com/karan_jung_budhathoki" class="pull-push-btn">📸 SHADOW ECHO</a>
+    <a href="https://fb.com/karanjung.budhathoki.16" class="pull-push-btn">👥 CLONE NET</a>
+  </div>
+
+  <pre>
+<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">decrypt --fun-facts</span>
+<span class="fun-fact">> Keyboard clacks = my katana strikes in the rain.</span>
+<span class="fun-fact">> Coffee IV drip: Keeps the agents at bay.</span>
+<span class="fun-fact">> Gaming + Lo-Fi = Slow-mo defrag of the mind.</span>
+<span class="fun-fact">> Tech hunger: Infinite loop, no exit condition.</span>
+<span class="fun-fact">> Secret: I once pulled a 404 from production... and liked it.</span>
+  </pre>
+</div>
 
 <div align="center">
-
-https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54
-https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
-https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanjung&theme=radical&hide_border=true&fire=00ff00&ring=0f0&currStreakLabel=0f0&sideNums=true" alt="Streak Stats" />
+  <br><br>
+  ![Contribution Snake](https://github.com/KaranJung/KaranJung/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Top Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-🌐 NETWORK_NODES
-<div align="center">
 
-https://img.shields.io/badge/%F0%9F%8C%90_PORTAL-000000?style=for-the-badge&logo=firefox&logoColor=00ff41
-https://img.shields.io/badge/%F0%9F%93%A7_ENCRYPTED_COMMS-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/%F0%9F%92%BC_PRO_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/%F0%9F%93%B8_VISUAL_FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-</div>
-🎮 REALITY_HACKS
-<div align="center">
-bash
+<script>
+// Live Matrix Rain - GitHub Render Magic (runs in browser)
+const canvas = document.getElementById('rain-hack');
+if (canvas) {
+  canvas.width = window.innerWidth;
+  canvas.height = document.documentElement.scrollHeight || 2000; // Adjust for README height
+  const ctx = canvas.getContext('2d');
+  const katakana = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン01';
+  const fontSize = 12;
+  const colCount = canvas.width / fontSize;
+  const drops = new Array(Math.floor(colCount)).fill(1);
 
->>> ACCESSING_SUBROUTINES...
+  function rain() {
+    ctx.fillStyle = 'rgba(0, 0, 0, 0.04)';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = '#0f0';
+    ctx.font = `${fontSize}px monospace`;
+    drops.forEach((y, i) => {
+      const char = katakana[Math.floor(Math.random() * katakana.length)];
+      ctx.fillText(char, i * fontSize, y * fontSize);
+      if (y * fontSize > canvas.height && Math.random() > 0.98) drops[i] = 0;
+      drops[i]++;
+    });
+  }
+  setInterval(rain, 50);
+  window.addEventListener('resize', () => {
+    canvas.width = window.innerWidth;
+    canvas.height = document.documentElement.scrollHeight || 2000;
+  });
+}
+</script>
 
-⌨️ Keyboard clicks = Digital heartbeat •
-☕ Coffee.exe [RUNNING] •
-🎵 Music_Player: ACTIVE •
-🧠 Neural_Link: LEARNING
-</div><div align="center">
-
-https://github.com/KaranJung/KaranJung/blob/output/github-contribution-grid-snake.svg
-
-https://komarev.com/ghpvc/?username=karanjung&label=MATRIX_ACCESSES&color=00ff41&style=flat
-https://img.shields.io/github/followers/karanjung?label=DIGITAL_SHADOWS&style=flat&color=00ff41
-
-bash
-
->>> SYSTEM_READY
->>> AWAITING_INPUT
->>> _
-
-</div><div align="right">
-
-"I don't see the code anymore. I see blonde, brunette, redhead..."
-// END_OF_TRANSMISSION
+<div align="center" style="margin-top: 40px; font-size: 1.5em; color: #0ff; animation: glitch-skitter 4s infinite;">
+  <p>> System Jacked. Pull the lever? Nah — you're the One.</p>
+  <p>> Free your mind. Code like there's no tomorrow... because in the matrix, there isn't.</p>
 </div>
