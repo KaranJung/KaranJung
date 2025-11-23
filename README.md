@@ -1,142 +1,113 @@
 <div align="center">
 
-![Matrix Pill](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50")
+![Red Pill](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50")
 <br>
-<div style="font-family: 'Orbitron', monospace; font-size: 2.5em; color: #0f0; text-shadow: 0 0 20px #0f0; animation: glitch-skitter 2s infinite;">
-  KARANJUNG://ROOT@MATRIX.NP
+<div style="font-family: 'Courier New', monospace; font-size: 2.2em; color: #0f0; text-shadow: 0 0 15px #0f0; letter-spacing: 3px;">
+  KARANJUNG://BREACH_ACCESS_GRANTED
 </div>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&lines=Wake+up%2C+Neo...;Accessing+the+Simulation...;PULLING+COMMITS+FROM+THE+VOID...;PUSHING+BOUNDARIES+INTO+INFINITY;There+is+no+README...+only+the+code." alt="Hacker Typing Effect" />
+<p style="font-size: 1.1em; color: #0ff; animation: blink 1s infinite;">WAKE UP. PULL THE CODE. PUSH THE AGENTS. NO SPOONS HERE.</p>
 
 </div>
 
 <style>
-  body { background: #000; color: #0f0; font-family: 'Courier New', monospace; }
-  .matrix-bg { 
-    position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: -1; opacity: 0.1; 
-  }
-  .terminal-hack {
-    background: rgba(0, 10, 0, 0.9);
-    border: 1px dashed #0f0;
-    border-radius: 8px;
+  .terminal-core {
+    background: rgba(0, 10, 0, 0.85);
+    border: 1px solid #0f0;
+    border-radius: 10px;
     padding: 25px;
     margin: 25px auto;
-    max-width: 850px;
-    box-shadow: 0 0 25px rgba(0, 255, 0, 0.3);
-    animation: pulse-hack 3s infinite alternate;
-    overflow: hidden;
+    max-width: 900px;
+    box-shadow: 0 0 25px #0f0;
+    font-family: 'Courier New', monospace;
+    color: #0f0;
+    line-height: 1.6;
   }
-  @keyframes pulse-hack { 0% { box-shadow: 0 0 10px #0f0; } 100% { box-shadow: 0 0 40px #0f0; } }
-  @keyframes glitch-skitter {
-    0%, 100% { transform: translate(0); }
-    10% { transform: translate(-2px, 2px); }
-    20% { transform: translate(2px, -2px); }
-    30% { transform: translate(-1px, 1px); }
+  @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0.5; } }
+  .glitch-text { 
+    color: #f0f; 
+    animation: glitch-shift 2s infinite; 
+    font-weight: bold;
   }
-  .cmd-line { color: #0ff; font-weight: bold; }
-  .output { color: #0f0; margin: 10px 0; animation: type-fade 2s ease-in; }
-  @keyframes type-fade { from { opacity: 0; } to { opacity: 1; } }
-  .pull-push-btn {
-    display: inline-block; margin: 5px; padding: 10px 20px;
-    background: transparent; border: 1px solid #0f0; color: #0f0;
-    text-decoration: none; border-radius: 4px; transition: all 0.3s;
-    font-family: monospace;
+  @keyframes glitch-shift {
+    0% { text-shadow: 2px 0 #0ff; }
+    50% { text-shadow: -2px 0 #f00; transform: skew(1deg); }
+    100% { text-shadow: 2px 0 #0ff; }
   }
-  .pull-push-btn:hover {
-    background: #0f0; color: #000; transform: rotate(5deg) scale(1.05);
-    box-shadow: 0 0 15px #0f0; animation: pull-glitch 0.5s;
+  .push-pull-link {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 20px;
+    background: #000;
+    border: 1px dashed #0f0;
+    color: #0f0;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.3s;
   }
-  @keyframes pull-glitch { 0%, 100% { text-shadow: none; } 50% { text-shadow: 0 0 10px #0ff; } }
-  .fun-fact { 
-    background: rgba(0, 255, 0, 0.05); padding: 8px; border-left: 3px solid #0f0;
-    margin: 10px 0; transition: all 0.2s; 
+  .push-pull-link:hover {
+    background: #0f0;
+    color: #000;
+    box-shadow: 0 0 20px #0f0;
+    transform: scale(1.1) rotate(2deg);
   }
-  .fun-fact:hover { background: rgba(0, 255, 0, 0.15); transform: translateX(10px); }
+  .mission-log {
+    background: rgba(255, 0, 0, 0.05);
+    padding: 10px;
+    border-left: 3px solid #f00;
+    margin: 10px 0;
+  }
 </style>
 
-<canvas class="matrix-bg" id="rain-hack"></canvas>
-
-<div class="terminal-hack" align="left">
+<div class="terminal-core">
   <pre>
-<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">git pull origin reality</span>
-<span class="output">Fetching... Merging spoons from the architect...</span>
-<span class="output glitch-skitter">> Status: Full-Stack Oracle | Nepal Node Operator | Code Bender Extraordinaire</span>
+<span style="color: #0ff;">root@hydra_x001:~$ </span><span style="color: #f0f;">git pull origin cyber-nexus</span>
+<span style="glitch-text">Fetching breaches... Merging red pills from the architect...</span>
+<span class="mission-log">> Operator: KARAN JUNG | Nepal Shadow Node | Full-Stack Anomaly Detector</span>
 
-<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">ls -la ~/skills</span>
-<span class="output">drwxr-xr-x  JS/     Python/    React/    Node.js/    Django/    Laravel/
-drwxr-xr-x  Tailwind/  Docker/    Kotlin/   C++/       Figma/     Photoshop/
-> Pull power: 100% - Languages loaded. Ready to fork the simulation.</span>
+<span style="color: #0ff;">root@hydra_x001:~$ </span><span style="color: #f0f;">ls -la ~/prototypes</span>
+<span class="mission-log">drwxr-xr-x  GPS-Location-Tracker/    (HTML Real-Time Hunt)
+drwxr-xr-x  BreachChecker/            (Python Threat Scanner)
+drwxr-xr-x  Secure-Vault/             (PHP Key Fortress)
+> Pull strength: MAX — Stack loaded: JS/Python/PHP + Docker/Tailwind/Figma.</span>
 
-<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">git push --force origin projects</span>
-<span class="output">Pushing... Bullet-time deploy activated.</span>
-<span class="output">→ <a href="https://github.com/KaranJung/Student-College-Finder" class="pull-push-btn">Student-College-Finder</a> - Hacking education matrices, one soul at a time.
-→ Figma Mastery: Designing escapes from the cube.
-→ React Quest: Building UIs that dodge red pills.</span>
+<span style="color: #0ff;">root@hydra_x001:~$ </span><span style="color: #f0f;">git push --all origin missions</span>
+<span class="mission-log">Deploying... Bullet-time evasion engaged.</span>
+<span class="mission-log">→ <a href="https://github.com/KaranJung/GPS-Location-Tracker" class="push-pull-link">GPS Tracker</a> - Pinpointing ghosts in the machine.
+→ <a href="https://github.com/KaranJung/BreachChecker-Cyber-Threat-Intelligence-Platform" class="push-pull-link">BreachChecker</a> - Exposing leaks before they flood.
+→ <a href="https://github.com/KaranJung/Secure-Vault" class="push-pull-link">Secure Vault</a> - Locking agents out for good.
+→ Side-Quest: Figma UI benders & React reality warps.</span>
 
-<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">connect --jack-in</span>
+<span style="color: #0ff;">root@hydra_x001:~$ </span><span style="color: #f0f;">jack-in --neural-net</span>
   </pre>
-  
+
   <div align="center">
-    <a href="https://karanjungbudhathoki.com.np/" class="pull-push-btn">🚀 PORTAL JUMP</a>
-    <a href="mailto:underside001@gmail.com" class="pull-push-btn">📡 BEAM SIGNAL</a>
-    <a href="https://linkedin.com/in/karan-jung-budhathoki" class="pull-push-btn">🔗 NEURAL LINK</a>
-    <a href="https://instagram.com/karan_jung_budhathoki" class="pull-push-btn">📸 SHADOW ECHO</a>
-    <a href="https://fb.com/karanjung.budhathoki.16" class="pull-push-btn">👥 CLONE NET</a>
+    <a href="https://karanjungbudhathoki.com.np/" class="push-pull-link">🌐 PORTAL BREACH</a>
+    <a href="mailto:underside001@gmail.com" class="push-pull-link">📡 QUANTUM PING</a>
+    <a href="https://linkedin.com/in/karan-jung-budhathoki" class="push-pull-link">🔗 MIND-MELD</a>
+    <a href="https://instagram.com/karan_jung_budhathoki" class="push-pull-link">📷 SHADOW FEED</a>
   </div>
 
   <pre>
-<span class="cmd-line">neo@karanjung:~$ </span><span style="color: #f0f;">decrypt --fun-facts</span>
-<span class="fun-fact">> Keyboard clacks = my katana strikes in the rain.</span>
-<span class="fun-fact">> Coffee IV drip: Keeps the agents at bay.</span>
-<span class="fun-fact">> Gaming + Lo-Fi = Slow-mo defrag of the mind.</span>
-<span class="fun-fact">> Tech hunger: Infinite loop, no exit condition.</span>
-<span class="fun-fact">> Secret: I once pulled a 404 from production... and liked it.</span>
+<span style="color: #0ff;">root@hydra_x001:~$ </span><span style="color: #f0f;">decrypt --anomaly-logs</span>
+<span class="mission-log">> Keyboard rain = symphony of strikes.</span>
+<span class="mission-log">> Coffee: Anti-agent serum, 100% potency.</span>
+<span class="mission-log">> Gaming + Synth: Defrag in slow-mo.</span>
+<span class="mission-log">> Easter Egg: "I don't see the code anymore... I see the vault."</span>
   </pre>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanjung&theme=radical&hide_border=true&fire=00ff00&ring=0f0&currStreakLabel=0f0&sideNums=true" alt="Streak Stats" />
+  ![Streak Fire](https://github-readme-streak-stats.herokuapp.com/?user=karanjung&theme=radical&hide_border=true&fire=00ff00)
   <br><br>
-  ![Contribution Snake](https://github.com/KaranJung/KaranJung/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Top Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  ![Snake Devour](https://github.com/KaranJung/KaranJung/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+  <br>
+  ![Core Stats](https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=radical&hide_border=true)
+  ![Lang Matrix](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=radical&hide_border=true)
 </div>
 
-<script>
-// Live Matrix Rain - GitHub Render Magic (runs in browser)
-const canvas = document.getElementById('rain-hack');
-if (canvas) {
-  canvas.width = window.innerWidth;
-  canvas.height = document.documentElement.scrollHeight || 2000; // Adjust for README height
-  const ctx = canvas.getContext('2d');
-  const katakana = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン01';
-  const fontSize = 12;
-  const colCount = canvas.width / fontSize;
-  const drops = new Array(Math.floor(colCount)).fill(1);
-
-  function rain() {
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.04)';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-    ctx.fillStyle = '#0f0';
-    ctx.font = `${fontSize}px monospace`;
-    drops.forEach((y, i) => {
-      const char = katakana[Math.floor(Math.random() * katakana.length)];
-      ctx.fillText(char, i * fontSize, y * fontSize);
-      if (y * fontSize > canvas.height && Math.random() > 0.98) drops[i] = 0;
-      drops[i]++;
-    });
-  }
-  setInterval(rain, 50);
-  window.addEventListener('resize', () => {
-    canvas.width = window.innerWidth;
-    canvas.height = document.documentElement.scrollHeight || 2000;
-  });
-}
-</script>
-
-<div align="center" style="margin-top: 40px; font-size: 1.5em; color: #0ff; animation: glitch-skitter 4s infinite;">
-  <p>> System Jacked. Pull the lever? Nah — you're the One.</p>
-  <p>> Free your mind. Code like there's no tomorrow... because in the matrix, there isn't.</p>
+<div align="center" style="margin-top: 30px; font-size: 1.3em; color: #0f0; text-shadow: 0 0 10px #0f0;">
+  <p>> Glitch fixed? Nah — upgraded. You're the anomaly they fear.</p>
+  <p>> Push harder. The matrix cracks under pressure.</p>
 </div>
