@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=E.r+Karan+Jung&fontSize=60&animation=fadeIn" alt="E.r Karan Jung Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Karan+Jung&fontSize=60&animation=fadeIn" alt=" Karan Jung Banner"/>
 </p>
 
 <h3 align="center">Full-Stack Developer • UI/UX Advocate • Creative Technologist</h3>
