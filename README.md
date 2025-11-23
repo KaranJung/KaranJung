@@ -1,141 +1,102 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&lines=WELCOME+TO+THE+MATRIX;KARANJUNG//ACCESS_GRANTED;There+is+no+spoon...;Wake+up%2C+Neo...;Follow+the+white+rabbit." alt="Matrix Typing SVG" />
-
-</div>
-
-<style>
-  .matrix { 
-    position:fixed; top:0; left:0; width:100%; height:100%; pointer-events:none; z-index:-1; opacity:0.15;
-  }
-  .terminal {
-    background: rgba(0,15,0,0.95);
-    border: 2px solid #0f0;
-    border-radius: 12px;
-    padding: 20px;
-    margin: 30px auto;
-    max-width: 920px;
-    box-shadow: 0 0 30px #0f0;
-    font-family: 'Courier New', monospace;
-    color: #0f0;
-    animation: flicker 4s infinite;
-    text-align: left;
-  }
-  @keyframes flicker { 0%,100% {opacity:1} 50% {opacity:0.85} }
-  .glitch { 
-    animation: glitch 3s infinite;
-    font-weight: bold;
-    font-size: 1.6em;
-  }
-  @keyframes glitch {
-    0% { text-shadow: 2px 0 #0ff, -2px 0 #f0f; }
-    20% { text-shadow: -3px 0 #0ff, 3px 0 #f0f; }
-    100% { text-shadow: 2px 0 #0ff, -2px 0 #f0f; }
-  }
-  .btn {
-    display: inline-block;
-    margin: 8px;
-    padding: 12px 28px;
-    background: transparent;
-    border: 2px solid #0f0;
-    color: #0f0;
-    text-decoration: none;
-    border-radius: 6px;
-    transition: all 0.4s;
-  }
-  .btn:hover {
-    background: #0f0;
-    color: #000;
-    box-shadow: 0 0 25px #0f0;
-    transform: scale(1.15);
-  }
-</style>
-
-<canvas class="matrix" id="matrix"></canvas>
-
-<br>
-
-<div class="terminal">
-  <pre>
-<span style="color:#0ff">root@neo</span>:<span style="color:#0f0">~</span>$ whoami
-<span class="glitch">KARAN JUNG // FULL-STACK REALITY BENDER</span>
-
-<span style="color:#0ff">root@neo</span>:<span style="color:#0f0">~</span>$ status
-> Location: Nepal Matrix Node
-> Fuel: 98% Coffee | 2% Sleep
-> Currently: Bending spoons with JavaScript
-> Mission: Free minds with code
-
-<span style="color:#0ff">root@neo</span>:<span style="color:#0f0">~</span>$ skills --list
-<span style="color:#0f0">▸ JavaScript │ Python │ React │ Node.js │ Django │ Laravel
-▸ Tailwind │ Docker │ Kotlin │ C++ │ Figma │ Photoshop</span>
-
-<span style="color:#0ff">root@neo</span>:<span style="color:#0f0">~</span>$ projects --top-secret
-<span style="color:#0f0">→ <a href="https://github.com/KaranJung/Student-College-Finder" style="color:#0ff">Student College Finder</a> - Breaking the education illusion
-→ Learning Figma & React like I learned Kung-Fu</span>
-
-<span style="color:#0ff">root@neo</span>:<span style="color:#0f0">~</span>$ connect --quantum
-  </pre>
-
-  <div align="center">
-    <a href="https://karanjungbudhathoki.com.np" class="btn">ENTER PORTAL</a>
-    <a href="mailto:underside001@gmail.com" class="btn">SEND SIGNAL</a>
-    <a href="https://linkedin.com/in/karan-jung-budhathoki" class="btn">LINKEDIN NODE</a>
-    <a href="https://instagram.com/karan_jung_budhathoki" class="btn">INSTA PORT</a>
-  </div>
-
-  <pre>
-<span style="color:#0ff">root@neo</span>:<span style="color:#0f0">~</span>$ fun_facts --decrypt
-> I code when the keyboard rains
-> Coffee = my Morpheus
-> Gaming + Synthwave = bullet-time mode
-> There is no bug, only features you haven't understood yet
-  </pre>
-</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
+  <br/>
+  🚀 CYBER_NEXUS // PROFILE_ACCESS
+  <br/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
+</h1>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanjung&theme=react-dark&hide_border=true&fire=00ff00&ring=0f0&currStreakLabel=0f0" />
-  <br><br>
-  <img src="https://github.com/KaranJung/KaranJung/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+
+python
+#!/usr/bin/env python3
+# CYBER_PROFILE: KARAN_JUNG_BUDHATHOKI
+# STATUS: [ACTIVE_SYSTEM]
+# ACCESS_LEVEL: [ROOT]
+
+https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&color=00ff41&size=25&center=true&vCenter=true&width=600&lines=CONSOLE%3E_WHOAMI;CONSOLE%3E_SYSTEM_STATUS;CONSOLE%3E_DEPLOY_CODE;CONSOLE%3E_BREAK_REALITY
 </div>
+📊 SYSTEM_METRICS
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=radical&hide_border=true" height="165"/>
 
-<script>
-// Minimal Matrix rain that works on GitHub (no canvas blocking)
-const canvas = document.getElementById('matrix');
-if (canvas) {
-  const ctx = canvas.getContext('2d');
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
-  const chars = '01アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン';
-  const fontSize = 14;
-  const columns = canvas.width/fontSize;
-  const drops = Array(Math.floor(columns)).fill(1);
+https://streak-stats.demolab.com?user=karanjung&theme=radical&hide_border=true&mode=weekly&border_radius=5&background=0D1117&ring=00FF41&fire=00FF41
 
-  function draw() {
-    ctx.fillStyle = 'rgba(0,0,0,0.05)';
-    ctx.fillRect(0,0,canvas.width,canvas.height);
-    ctx.fillStyle = '#0f0';
-    ctx.font = fontSize + 'px monospace';
-    for(let i = 0; i < drops.length; i++) {
-      const text = chars[Math.floor(Math.random()*chars.length)];
-      ctx.fillText(text, i*fontSize, drops[i]*fontSize);
-      if(drops[i]*fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
-      drops[i]++;
-    }
-  }
-  setInterval(draw, 40);
-}
-</script>
-
-<div align="center" style="margin-top:50px; font-size:1.8em; animation: glow 2s infinite alternate;">
-  <b>Choose the red pill. You're already in.</b>
+https://github-readme-activity-graph.vercel.app/graph?username=karanjung&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff
 </div>
+🛠️ ACTIVE_MISSIONS
+🎯 MAINFRAME_OPERATIONS
 
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 10px #0f0; }
-  to { text-shadow: 0 0 40px #0f0, 0 0 60px #0f0; }
-}
-</style>
+https://img.shields.io/badge/%F0%9F%8E%AF_STUDENT_COLLEGE_FINDER-ACTIVE-00ff41?style=for-the-badge&logo=github
+https://img.shields.io/badge/%F0%9F%93%9D_KEEPER_NOTES-SECURED-00ff41?style=for-the-badge&logo=github
+⚡ CYBER_PROTOTYPES
+
+https://img.shields.io/badge/%F0%9F%94%8A_TEXT_TO_SPEECH-RUNNING-00ff41?style=for-the-badge&logo=github
+https://img.shields.io/badge/%F0%9F%8E%AE_SIMON_GAME-ACTIVE-00ff41?style=for-the-badge&logo=github
+🎨 UI_UX_LAB
+
+https://img.shields.io/badge/%F0%9F%8E%B2_DICE_GAME-ROLLING-00ff41?style=for-the-badge&logo=github
+https://img.shields.io/badge/%F0%9F%A5%81_DRUM_KIT-JAMMING-00ff41?style=for-the-badge&logo=github
+🔐 SECURITY_TESTING
+
+https://img.shields.io/badge/%F0%9F%94%90_SECRETS_PROJECT-CLASSIFIED-00ff41?style=for-the-badge&logo=github
+https://img.shields.io/badge/%F0%9F%93%A7_NEWSLETTER_DEPLOYED-00ff41?style=for-the-badge&logo=github
+🌐 WEB_SYSTEMS
+
+https://img.shields.io/badge/%E2%9C%85_TODOLIST_V2-OPERATIONAL-00ff41?style=for-the-badge&logo=github
+https://img.shields.io/badge/%F0%9F%93%9D_MY_BLOG-PUBLISHING-00ff41?style=for-the-badge&logo=github
+💾 TECH_MATRIX
+🧠 NEURAL_PROCESSORS
+javascript
+
+const cyberStack = {
+  frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind"],
+  backend: ["Node.js", "Express", "Laravel", "Django", "PHP"],
+  languages: ["Python", "C++", "Kotlin", "JavaScript"],
+  tools: ["Docker", "Postman", "Linux", "Figma", "AdobeXD"],
+  databases: ["MongoDB", "MySQL", "PostgreSQL"]
+};
+
+<div align="center">
+
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54
+https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
+https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
+https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+</div>
+🌐 NETWORK_NODES
+<div align="center">
+
+https://img.shields.io/badge/%F0%9F%8C%90_PORTAL-000000?style=for-the-badge&logo=firefox&logoColor=00ff41
+https://img.shields.io/badge/%F0%9F%93%A7_ENCRYPTED_COMMS-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BC_PRO_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/%F0%9F%93%B8_VISUAL_FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+</div>
+🎮 REALITY_HACKS
+<div align="center">
+bash
+
+>>> ACCESSING_SUBROUTINES...
+
+⌨️ Keyboard clicks = Digital heartbeat •
+☕ Coffee.exe [RUNNING] •
+🎵 Music_Player: ACTIVE •
+🧠 Neural_Link: LEARNING
+</div><div align="center">
+
+https://github.com/KaranJung/KaranJung/blob/output/github-contribution-grid-snake.svg
+
+https://komarev.com/ghpvc/?username=karanjung&label=MATRIX_ACCESSES&color=00ff41&style=flat
+https://img.shields.io/github/followers/karanjung?label=DIGITAL_SHADOWS&style=flat&color=00ff41
+
+bash
+
+>>> SYSTEM_READY
+>>> AWAITING_INPUT
+>>> _
+
+</div><div align="right">
+
+"I don't see the code anymore. I see blonde, brunette, redhead..."
+// END_OF_TRANSMISSION
+</div>
