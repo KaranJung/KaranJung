@@ -1,54 +1,87 @@
-# 👋 Hi, I’m **E.r Karan Jung**
+<!-- ==================== HEADER ==================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=E.r+Karan+Jung&fontSize=60&animation=fadeIn" alt="E.r Karan Jung Banner"/>
+</p>
 
-### Full-Stack Developer · UI/UX Advocate · Clean Code Enthusiast
-
-Welcome to my GitHub — where I turn ideas into intuitive apps, elegant UIs, and scalable backends.
-
----
-
-## 🎯 What I Do
-
-- 💻 **Full-Stack Development**: Node.js · Express · Laravel · Django  
-- 🎨 **Frontend & Design**: HTML5 · CSS3 · TailwindCSS · Bootstrap · Figma  
-- 🧠 **Tech Languages**: JavaScript · Python · PHP · C++ · Kotlin  
-- ⚙️ **Tools & Platforms**: Docker · Linux · Git/GitHub · Postman
-
----
-
-## 📂 Pinned Projects
-
-Here are some of my strongest works:
-
-- [**Student College Finder**](https://github.com/KaranJung/Student-College-Finder) — A platform helping students find the best-fit college.  
-- [**GPS Location Tracker**](https://github.com/KaranJung/GPS-Location-Tracker) — Real-time location tracking with dashboard analytics.  
-- [**Portfolio Website**](https://karanjungbudhathoki.com.np/) — My personal site showcasing design + code synergy.  
-- [**(Add Project Name Here)**]() — Brief & punchy description of another key repo.
-
----
-
-## 🌐 GitHub Stats
+<h3 align="center">Full-Stack Developer • UI/UX Advocate • Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karanjung&theme=tokyonight&hide_border=true"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=tokyonight&hide_border=true" height="180"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <a href="https://karanjungbudhathoki.com.np/" target="_blank">Portfolio</a> •
+  <a href="mailto:underside001@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/karan-jung-budhathoki">LinkedIn</a>
 </p>
 
 ---
 
-## 📬 Let’s Connect
+## 👁️ Who Am I?
 
-[Portfolio](https://karanjungbudhathoki.com.np/) • [Email](mailto:underside001@gmail.com) • [LinkedIn](https://linkedin.com/in/karan-jung-budhathoki) •  
-[Facebook](https://fb.com/karanjung.budhathoki.16) • [Instagram](https://instagram.com/karan_jung_budhathoki)
+| | |
+|---|---|
+| **Name** | E.r Karan Jung |
+| **Role** | Building elegant digital solutions that feel intuitive and look polished. |
+| **Focus** | Frontend aesthetics + Backend robustness + Seamless UX |
 
----
-
-## 🔍 A Bit About Me
-
-- I believe in clean, maintainable code and user-first design.  
-- Coffee, keyboards, and music power my dev sessions.  
-- Always exploring new tech, refining my craft, and building real-world apps.
+I thrive at the intersection of logic and design — turning complex ideas into simple, meaningful products.
 
 ---
 
-*“Code with clarity. Design with purpose. Ship with confidence.”*
+## 🚀 Featured Projects
+
+### **🎯 Student College Finder**  
+A smart platform to help students find their ideal college — placing the human at the center of the tech.  
+🔗 [github.com/KaranJung/Student-College-Finder](https://github.com/KaranJung/Student-College-Finder)
+
+### **📍 GPS Location Tracker**  
+Real-time tracking with an intuitive dashboard — the code meets the map.  
+🔗 [github.com/KaranJung/GPS-Location-Tracker](https://github.com/KaranJung/GPS-Location-Tracker)
+
+### **🌐 Portfolio Website**  
+My digital identity: a showcase of design sense and frontend craft.  
+🔗 [karanjungbudhathoki.com.np](https://karanjungbudhathoki.com.np/)
+
+---
+
+## 🧰 Tech Stack
+
+### **Languages**  
+JavaScript · Python · PHP · C++ · Kotlin  
+
+### **Frontend & UI**  
+HTML5 · CSS3 · Bootstrap · TailwindCSS · Figma · (React – exploring)  
+
+### **Backend & Tools**  
+Node.js · Express.js · Laravel · Django · Docker · Linux · Git · Postman  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karanjung&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=karanjung&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjung&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+</p>
+
+---
+
+## 🌟 Personal Motto  
+> “Build with intention. Design with empathy. Code with clarity.”
+
+---
+
+## 🔮 What’s Next  
+- Deepening expertise in React and modern frontend ecosystems.  
+- Exploring microservices and scalable backend patterns.  
+- Creating tools that make life easier — for developers and users alike.  
+
+---
+
+## 📫 Connect With Me  
+Feel free to reach out if you’re curious about collaboration, open-source work, or just want to chat tech.  
+🌐 [Portfolio](https://karanjungbudhathoki.com.np/) • 📧 Email • 🔗 [LinkedIn](https://linkedin.com/in/karan-jung-budhathoki)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=Let’s+Build+Something+Great!&fontSize=40&animation=fadeIn" alt="Let’s Build Something Great!"/>
+</p>
