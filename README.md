@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&text=Karan+Jung&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&text=Hydra_X001&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center" style="color:red">🔥 Full‑Stack Developer • UI/UX Assassin • Code Mercenary 🔥</h2>
