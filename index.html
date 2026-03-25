@@ -435,7 +435,8 @@
        PROJECTS
     ═══════════════════════════════════════ */
     .projects-section { background:linear-gradient(180deg,var(--bg) 0%,var(--bg2) 50%,var(--bg) 100%); }
-    .projects-grid { display:grid; grid-template-columns:1fr 1fr; gap:26px; }
+    .projects-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:26px; }
+    @media (max-width:1024px) { .projects-grid{grid-template-columns:1fr 1fr;} }
     @media (max-width:768px) { .projects-grid{grid-template-columns:1fr;} }
 
     .proj-card {
@@ -1029,80 +1030,100 @@
 
       <div class="proj-card glass reveal-scale" style="transition-delay:.05s">
         <div class="proj-img-wrap">
-          <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80" alt="Portfolio Web Experience" class="proj-img" />
+          <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80" alt="BreachChecker" class="proj-img" />
           <div class="proj-overlay">
-            <a href="#" class="proj-btn pri" title="Live Demo"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-            <a href="https://github.com/karanjung" target="_blank" rel="noopener" class="proj-btn gho" title="GitHub"><i class="fa-brands fa-github"></i></a>
+            <a href="https://github.com/KaranJung/BreachChecker-Cyber-Threat-Intelligence-Platform" target="_blank" rel="noopener" class="proj-btn gho" title="GitHub"><i class="fa-brands fa-github"></i></a>
           </div>
         </div>
         <div class="proj-body">
-          <div class="proj-cat">React / Frontend</div>
-          <div class="proj-title">Portfolio Web Experience</div>
-          <div class="proj-desc">A highly interactive, single-page portfolio with glassmorphism UI, cinematic animations, and custom canvas particle backgrounds. Built with React, Tailwind CSS, and Framer Motion.</div>
+          <div class="proj-cat">Python / Cybersecurity</div>
+          <div class="proj-title">BreachChecker — Cyber Threat Intelligence</div>
+          <div class="proj-desc">A CLI tool for scanning and analyzing data breaches, exposed emails, passwords, and domains via public APIs. Features email breach scanning, risk scoring, password exposure checks, and domain breach analysis.</div>
           <div class="proj-tags">
-            <span class="proj-tag">React</span>
-            <span class="proj-tag">Tailwind</span>
-            <span class="proj-tag">Framer Motion</span>
-            <span class="proj-tag">Canvas API</span>
+            <span class="proj-tag">Python</span>
+            <span class="proj-tag">Security</span>
+            <span class="proj-tag">CLI</span>
+            <span class="proj-tag">API</span>
           </div>
         </div>
       </div>
 
       <div class="proj-card glass reveal-scale" style="transition-delay:.1s">
         <div class="proj-img-wrap">
-          <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80" alt="E-Commerce Optimization" class="proj-img" />
+          <img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80" alt="PrivacyShield Pro" class="proj-img" />
           <div class="proj-overlay">
-            <a href="#" class="proj-btn pri" title="Live Site"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+            <a href="https://github.com/KaranJung/PrivacyShield-Pro" target="_blank" rel="noopener" class="proj-btn gho" title="GitHub"><i class="fa-brands fa-github"></i></a>
           </div>
         </div>
         <div class="proj-body">
-          <div class="proj-cat">WordPress / SEO</div>
-          <div class="proj-title">E-Commerce Optimization</div>
-          <div class="proj-desc">Complete overhaul of a WooCommerce store — custom theme design and deep on-page SEO optimization resulting in a 40% increase in organic traffic and improved conversions.</div>
+          <div class="proj-cat">JavaScript / Browser Extension</div>
+          <div class="proj-title">PrivacyShield Pro</div>
+          <div class="proj-desc">A Firefox extension built with Manifest V3 that blocks ads, trackers, and fingerprinting attempts before page load. Features network-level ad blocking, per-site statistics, and zero data collection.</div>
           <div class="proj-tags">
-            <span class="proj-tag">WordPress</span>
-            <span class="proj-tag">PHP</span>
-            <span class="proj-tag">WooCommerce</span>
-            <span class="proj-tag">SEO</span>
+            <span class="proj-tag">JavaScript</span>
+            <span class="proj-tag">Firefox</span>
+            <span class="proj-tag">Manifest V3</span>
+            <span class="proj-tag">Privacy</span>
           </div>
         </div>
       </div>
 
       <div class="proj-card glass reveal-scale" style="transition-delay:.15s">
         <div class="proj-img-wrap">
-          <img src="https://images.unsplash.com/photo-1551808525-51a94da548ce?w=800&q=80" alt="CyberSec Analytics Dashboard" class="proj-img" />
+          <img src="https://images.unsplash.com/photo-1476973422084-e0fa66ff9456?w=800&q=80" alt="GPS Location Tracker" class="proj-img" />
           <div class="proj-overlay">
-            <a href="https://github.com/karanjung" target="_blank" rel="noopener" class="proj-btn gho" title="GitHub"><i class="fa-brands fa-github"></i></a>
+            <a href="https://github.com/KaranJung/GPS-Location-Tracker" target="_blank" rel="noopener" class="proj-btn gho" title="GitHub"><i class="fa-brands fa-github"></i></a>
           </div>
         </div>
         <div class="proj-body">
-          <div class="proj-cat">Python / Security</div>
-          <div class="proj-title">CyberSec Analytics Dashboard</div>
-          <div class="proj-desc">A proof-of-concept monitoring tool in Python. Aggregates system logs, detects anomalies using heuristic analysis, and visualizes network health in real time.</div>
+          <div class="proj-cat">Python / Flask</div>
+          <div class="proj-title">GPS Location Tracker</div>
+          <div class="proj-desc">Real-time GPS tracking system with admin dashboard and location analytics. Features live map tracking with auto-refresh, GPS accuracy metrics, KML export, and Telegram webhook notifications.</div>
           <div class="proj-tags">
             <span class="proj-tag">Python</span>
-            <span class="proj-tag">Security</span>
-            <span class="proj-tag">Data Visualization</span>
-            <span class="proj-tag">Linux</span>
+            <span class="proj-tag">Flask</span>
+            <span class="proj-tag">GPS</span>
+            <span class="proj-tag">Maps</span>
           </div>
         </div>
       </div>
 
       <div class="proj-card glass reveal-scale" style="transition-delay:.2s">
         <div class="proj-img-wrap">
-          <img src="https://images.unsplash.com/photo-1574717024453-354056fadfd0?w=800&q=80" alt="Brand Motion Reel" class="proj-img" />
+          <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&q=80" alt="Diabetes Prediction System" class="proj-img" />
           <div class="proj-overlay">
-            <a href="#" class="proj-btn pri" title="View Reel"><i class="fa-solid fa-play"></i></a>
+            <a href="https://github.com/KaranJung/Diabetes-Predictions-system-using-machine-learning" target="_blank" rel="noopener" class="proj-btn gho" title="GitHub"><i class="fa-brands fa-github"></i></a>
           </div>
         </div>
         <div class="proj-body">
-          <div class="proj-cat">Video / Design</div>
-          <div class="proj-title">Brand Motion Reel</div>
-          <div class="proj-desc">A curated collection of dynamic motion graphics, corporate brand intros, and identity videos. Crafted using industry-standard tools to deliver compelling visual narratives.</div>
+          <div class="proj-cat">Machine Learning / Django</div>
+          <div class="proj-title">Diabetes Prediction System</div>
+          <div class="proj-desc">ML system for early diabetes detection using Random Forest and Decision Tree classifiers trained on the Pima Indians Diabetes dataset. Full-stack app with Django backend for real-time predictions.</div>
           <div class="proj-tags">
-            <span class="proj-tag">Premiere Pro</span>
-            <span class="proj-tag">After Effects</span>
-            <span class="proj-tag">Branding</span>
+            <span class="proj-tag">Python</span>
+            <span class="proj-tag">Django</span>
+            <span class="proj-tag">ML</span>
+            <span class="proj-tag">Random Forest</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="proj-card glass reveal-scale" style="transition-delay:.25s">
+        <div class="proj-img-wrap">
+          <img src="https://images.unsplash.com/photo-1523050854058-8df90110c6f1?w=800&q=80" alt="Student College Finder" class="proj-img" />
+          <div class="proj-overlay">
+            <a href="https://github.com/KaranJung/Student-College-Finder" target="_blank" rel="noopener" class="proj-btn gho" title="GitHub"><i class="fa-brands fa-github"></i></a>
+          </div>
+        </div>
+        <div class="proj-body">
+          <div class="proj-cat">PHP / Web App</div>
+          <div class="proj-title">Student College Finder</div>
+          <div class="proj-desc">A comprehensive college discovery platform with 1,376+ colleges in the database. Features admin panel, Google Maps integration, and search/filter functionality for students.</div>
+          <div class="proj-tags">
+            <span class="proj-tag">PHP</span>
+            <span class="proj-tag">MySQL</span>
+            <span class="proj-tag">Google Maps</span>
+            <span class="proj-tag">Admin Panel</span>
           </div>
         </div>
       </div>
@@ -1144,7 +1165,7 @@
         </div>
 
         <div class="social-row">
-          <a href="https://github.com/karanjung" target="_blank" rel="noopener" class="s-btn" title="GitHub"><i class="fa-brands fa-github"></i></a>
+          <a href="https://github.com/KaranJung" target="_blank" rel="noopener" class="s-btn" title="GitHub"><i class="fa-brands fa-github"></i></a>
           <a href="https://linkedin.com/in/karanjungbudhathoki" target="_blank" rel="noopener" class="s-btn" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
           <a href="https://karanjungbudhathoki.com.np" target="_blank" rel="noopener" class="s-btn" title="Website"><i class="fa-solid fa-globe"></i></a>
           <a href="mailto:underside001@gmail.com" class="s-btn" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -1390,7 +1411,8 @@
       card.style.transform = 'translateY(-8px) perspective(800px) rotateX(' + rotateX + 'deg) rotateY(' + rotateY + 'deg)';
     });
     card.addEventListener('mouseleave', () => {
-      card.style.transform = '';
+      card.style.transform = 'translateY(-8px)';
+      setTimeout(() => { card.style.transform = ''; }, 300);
     });
   });
 
@@ -1495,11 +1517,6 @@
         }
       });
     };
-  })();
-
-  /* ── PATCH particle loop to include 3D shapes ── */
-  (function patchLoop() {
-    const origAnim = window._origAnimPtcls;
   })();
 
 })();
